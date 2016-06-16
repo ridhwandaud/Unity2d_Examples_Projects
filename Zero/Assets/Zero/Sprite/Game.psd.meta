@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 12c0e21ee182bdd41b7c32771aaffb1c
+timeCreated: 1461079405
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_0
+    21300002: Game_1
+    21300004: Game_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 808
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -171}
+        - {x: 168, y: -146}
+        - {x: 189, y: -118}
+        - {x: 211, y: -75}
+        - {x: 218, y: -47}
+        - {x: 220, y: -31}
+        - {x: 220, y: 39}
+        - {x: 219, y: 49}
+        - {x: 205, y: 92}
+        - {x: 189, y: 120}
+        - {x: 168, y: 148}
+        - {x: 141, y: 173}
+        - {x: 128, y: 184}
+        - {x: 91, y: 205}
+        - {x: 70, y: 213}
+        - {x: 40, y: 220}
+        - {x: -40, y: 220}
+        - {x: -48, y: 219}
+        - {x: -84, y: 209}
+        - {x: -110, y: 196}
+        - {x: -148, y: 170}
+        - {x: -183, y: 129}
+        - {x: -192, y: 115}
+        - {x: -210, y: 77}
+        - {x: -216, y: 57}
+        - {x: -220, y: 32}
+        - {x: -220, y: -33}
+        - {x: -219, y: -42}
+        - {x: -214, y: -63}
+        - {x: -204, y: -90}
+        - {x: -184, y: -128}
+        - {x: -137, y: -177}
+        - {x: -91, y: -204}
+        - {x: -76, y: -209}
+        - {x: -38, y: -219}
+        - {x: -32, y: -220}
+        - {x: 38, y: -220}
+        - {x: 64, y: -213}
+        - {x: 84, y: -206}
+        - {x: 119, y: -188}
+      - - {x: -47, y: -115}
+        - {x: -81, y: -95}
+        - {x: -96, y: -80}
+        - {x: -122, y: -21}
+        - {x: -123, y: 16}
+        - {x: -116, y: 47}
+        - {x: -101, y: 72}
+        - {x: -96, y: 81}
+        - {x: -64, y: 108}
+        - {x: -22, y: 122}
+        - {x: 15, y: 123}
+        - {x: 46, y: 116}
+        - {x: 71, y: 102}
+        - {x: 95, y: 81}
+        - {x: 121, y: 22}
+        - {x: 122, y: -15}
+        - {x: 115, y: -46}
+        - {x: 101, y: -71}
+        - {x: 80, y: -95}
+        - {x: 21, y: -121}
+        - {x: -16, y: -122}
+    - name: Game_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1118
+        width: 301
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 54}
+        - {x: -118.5, y: 19}
+        - {x: -150.5, y: -45}
+        - {x: -150.5, y: -54}
+        - {x: 150.5, y: -54}
+        - {x: 150.5, y: -37}
+        - {x: 141.5, y: 3}
+        - {x: 92.5, y: 34}
+        - {x: 11.5, y: 54}
+    - name: Game_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 1101
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 527.5, y: -224}
+        - {x: 514.5, y: -210}
+        - {x: 454.5, y: -145}
+        - {x: 441.5, y: -131}
+        - {x: 393.5, y: -79}
+        - {x: 380.5, y: -65}
+        - {x: 320.5, y: 0}
+        - {x: 307.5, y: 14}
+        - {x: 259.5, y: 66}
+        - {x: 246.5, y: 80}
+        - {x: 186.5, y: 145}
+        - {x: 173.5, y: 159}
+        - {x: 137.5, y: 198}
+        - {x: 112.5, y: 224}
+        - {x: 112.5, y: 225}
+        - {x: 100.5, y: 238}
+        - {x: 86.5, y: 253}
+        - {x: 78.5, y: 253}
+        - {x: 76.5, y: 251}
+        - {x: 77.5, y: 247}
+        - {x: 90.5, y: 230}
+        - {x: 99.5, y: 215}
+        - {x: 99.5, y: 213}
+        - {x: 105.5, y: 190}
+        - {x: 106.5, y: 189}
+        - {x: 106.5, y: 162}
+        - {x: 105.5, y: 161}
+        - {x: 99.5, y: 136}
+        - {x: 90.5, y: 121}
+        - {x: 83.5, y: 111}
+        - {x: 59.5, y: 88}
+        - {x: 56.5, y: 87}
+        - {x: 41.5, y: 79}
+        - {x: 35.5, y: 78}
+        - {x: 33.5, y: 76}
+        - {x: 16.5, y: 72}
+        - {x: 15.5, y: 71}
+        - {x: -11.5, y: 71}
+        - {x: -12.5, y: 72}
+        - {x: -27.5, y: 72}
+        - {x: -33.5, y: 77}
+        - {x: -50.5, y: 85}
+        - {x: -52.5, y: 87}
+        - {x: -63.5, y: 94}
+        - {x: -73.5, y: 104}
+        - {x: -86.5, y: 118}
+        - {x: -86.5, y: 120}
+        - {x: -94.5, y: 136}
+        - {x: -95.5, y: 142}
+        - {x: -97.5, y: 144}
+        - {x: -101.5, y: 161}
+        - {x: -102.5, y: 162}
+        - {x: -102.5, y: 189}
+        - {x: -101.5, y: 190}
+        - {x: -95.5, y: 215}
+        - {x: -86.5, y: 230}
+        - {x: -73.5, y: 247}
+        - {x: -71.5, y: 252}
+        - {x: -72.5, y: 253}
+        - {x: -79.5, y: 253}
+        - {x: -82.5, y: 250}
+        - {x: -517.5, y: -214}
+        - {x: -517.5, y: -215}
+        - {x: -547.5, y: -246}
+        - {x: -550.5, y: -249}
+        - {x: -550.5, y: -253}
+        - {x: 550.5, y: -253}
+        - {x: 550.5, y: -249}
+        - {x: 539.5, y: -237}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
